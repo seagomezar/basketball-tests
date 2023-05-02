@@ -1,7 +1,7 @@
 {
-  "name": "nutrition-app",
+  "name": "basketball-tests",
   "version": "0.1.0",
-  "homepage": "https://seagomezar.github.io/nutrition-app",
+  "homepage": "https://basketball-tests.sebastian-gomez.com",
   "private": true,
   "dependencies": {
     "@auth0/auth0-react": "^1.12.0",
