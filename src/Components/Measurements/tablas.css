@@ -1,0 +1,20 @@
+.n{
+    background-color: rgb(97, 161, 235);
+    font-weight: bold !important;
+    color: black !important;
+    font-size: 16px;
+}
+.t{
+   font-weight: bold;
+}
+.pli{
+    background-color: rgb(252, 236, 147);
+}
+.med{
+    background-color: rgb(38, 100, 38);
+}
+td.n > *, td.n span a span{
+    font-weight: bold !important;
+    color: black !important;
+    font-size: 16px;
+} 

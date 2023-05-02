@@ -1,0 +1,17 @@
+{
+    "conventionalCommits.scopes": [
+        "measurement",
+        "e2e",
+        "users",
+        "PrescribedFood",
+        "FoodCategory",
+        "Goal",
+        "nutritionist",
+        "referencedSomatotype",
+        "EantingMoment",
+        "FoodHasEatingMoment",
+        "FoodHasFoodCategory",
+        "Athlete"
+    ],
+    "java.server.launchMode": "Standard"
+}
